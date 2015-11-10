@@ -1,2 +1,0 @@
-# htpc
-setup for htpcs
