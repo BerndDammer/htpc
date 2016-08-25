@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=raute club
+GenericName=gg
+Comment=test1
+Exec=/usr/bin/vlc http://club-high.rautemusik.fm
+TryExec=/usr/bin/vlc
+Icon=vlc
+Terminal=false
+Type=Application
+Categories=AudioVideo;Player;Recorder;

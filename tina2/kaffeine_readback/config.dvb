@@ -1,0 +1,9 @@
+[device]
+deviceId=P11317146153b1176
+frontendName=Philips TDA10023 DVB-C
+configCount=1
+[config]
+type=0
+name=Kabel
+scanSource=de-WillyTelFree
+timeout=1500
